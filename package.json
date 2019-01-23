@@ -1,18 +1,18 @@
 {
-  "name": "react_starter",
+  "name": "chatty_app",
   "version": "1.0.0",
-  "description": "Starting setup for react redux project",
+  "description": "Chat app built with ReactJS and Firebase",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
     "bundle": "webpack --config webpack.prod.js --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott Bowler",
+  "author": "Roj Rungsisullatanont",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/rojrun/chatty_app.git"
   },
   "dependencies": {
     "react": "^16.5.2",
